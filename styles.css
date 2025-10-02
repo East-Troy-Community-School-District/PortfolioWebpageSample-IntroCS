@@ -1,0 +1,44 @@
+p {
+    color: #12263A;
+}
+
+h1, h2, h3 {
+    color: #12263A;
+}
+
+h1 {
+    font-size: 36pt;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+mark {
+    background-color: #F4D1AE;
+}
+
+hr {
+    height: 5px;
+    background-color: #F4D1AE;
+    border-style: none;
+}
+
+body {
+    background-color: #06BCC1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:link {
+    color: #F4EDEA;
+}
+
+a:hover {
+    color: #12263A;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
