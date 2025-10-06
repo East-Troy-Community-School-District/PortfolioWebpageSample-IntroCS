@@ -11,7 +11,7 @@ h1 {
     text-align: center;
 }
 
-h3 {
+#subtitle {
     text-align: center;
 }
 
@@ -27,15 +27,20 @@ hr {
 
 body {
     background-color: #06BCC1;
+    background-image: url('images/background.png');
     font-family: 'Courier New', Courier, monospace;
 }
 
 a:link {
-    color: #F4EDEA;
+    color: #8E4162;
 }
 
 a:hover {
-    color: #12263A;
+    color: #BF9ACA;
+}
+
+a:visited {
+    color: #41393E;
 }
 
 img {
